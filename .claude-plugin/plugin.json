@@ -1,0 +1,9 @@
+{
+  "name": "pacergram",
+  "version": "0.1.0",
+  "description": "A band above the prompt that compares weekly and 5-hour usage to an even pace.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Drullkus"
+  }
+}

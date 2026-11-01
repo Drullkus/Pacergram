@@ -1,0 +1,13 @@
+{
+  "name": "pacergram",
+  "owner": {
+    "name": "Drullkus"
+  },
+  "description": "Pacergram: a usage pace band for the Claude desktop app.",
+  "plugins": [
+    {
+      "name": "pacergram",
+      "source": "./"
+    }
+  ]
+}
